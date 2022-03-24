@@ -1,4 +1,4 @@
-package com.abdullahteke.ysd.JiraAdapter;
+package com.abdullahteke.ysd.jiraadapter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

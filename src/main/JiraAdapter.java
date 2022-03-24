@@ -3,7 +3,7 @@ package main;
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 
-import com.abdullahteke.ysd.JiraAdapter.JiraManager;
+import com.abdullahteke.ysd.jiraadapter.JiraManager;
 
 public class JiraAdapter {
 
